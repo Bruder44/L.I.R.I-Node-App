@@ -1,5 +1,3 @@
-console.log('this is loaded');
-
 exports.twitter = {
   consumer_key: process.env.ue9wcRPia0rkQ1PQmZ8ftcxNP,
   consumer_secret: process.env.SMLZEdNsANrbzrdO7xe6sS0rkUX8wdyfll0sMEZQNWDg60o4qw,
